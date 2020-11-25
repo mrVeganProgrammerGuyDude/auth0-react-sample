@@ -1,3 +1,5 @@
+// Required for login system. See details here bro: https://auth0.com/blog/complete-guide-to-react-user-authentication/#Get-the-Starter-Application
+
 import React from "react";
 import { useHistory } from "react-router-dom";
 import { Auth0Provider } from "@auth0/auth0-react";
